@@ -40,12 +40,12 @@ npm install -g http-server
 # Screenshots (Add at least 3)
 [![Screenshot1]](https://drive.google.com/file/d/1w1qkvxGrPXNtefrqMkQrUmnhObUrPDu3/view?usp=drive_link)
 home page of wesite
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot2]2nd page of website
+](https://drive.google.com/file/d/1dsF62-CrINDYhb0iTgby_UcwaITkS2Aa/view?usp=drive_link)*basic features of the website
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![Screenshot3][(3rd page)
+(https://drive.google.com/file/d/1qFApqAnPgKv3cER3J7MTGHRhTH89v0hK/view?usp=drive_link)
+shows main content
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
