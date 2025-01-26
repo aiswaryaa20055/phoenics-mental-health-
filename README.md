@@ -2,54 +2,44 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Phoenix
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Aiswarya.m.s - ICCS Collage Of Engineering & Management
+- Member 2: Rinsha Fathima.v.k - ICCS Collage Of Engineerng & Management 
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
 
+Mental health refers to a person's emotional, psychological, and soPrioritizing mental health is as important as caring for physical health, as both are essential for a balanced and fulfilling lifecial well-being. It affects how individuals think, feel, and behave in their daily lives. It also influences how they handle stress, relate to others, and make decisions. Maintaining good mental health is essential for overall health and quality of life.
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Mental health problems affect a person's thoughts, emotions, and behavior, often impacting their ability to cope with daily life, maintain relationships, or perform tasks effectively. 
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+presentation for mental health
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-html
+- Frameworks used
+- - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+npm install bootstrap
 # Run
-[commands]
-
-### Project Documentation
-For Software:
-
+npm install -g http-server
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+[![Screenshot1]](https://drive.google.com/file/d/1w1qkvxGrPXNtefrqMkQrUmnhObUrPDu3/view?usp=drive_link)
+home page of wesite
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
